@@ -1,0 +1,37 @@
+assembly
+run
+assembly
+eclipse
+run
+assembly'
+assembly
+package
+assembly
+scala-version
+name
+version
+organization
+resolvers
+libraty
+library-depencies
+library-dependencies
+scala-source
+java-source
+source-directories
+test
+help test;
+help test
+help run
+help pack
+last
+last help
+last compile
+compile
+last compile
+sbt test
+test
+show classpath
+show class-path
+show sources
+show full-classpath
+clean 

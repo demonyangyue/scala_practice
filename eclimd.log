@@ -1,0 +1,291 @@
+2015-07-14 23:40:28,116 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-07-14 23:40:28,125 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-07-14 23:40:28,126 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-07-14 23:40:28,164 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-07-14 23:40:28,171 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-07-14 23:40:28,698 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-07-14 23:40:28,906 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-07-14 23:40:28,914 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-07-14 23:40:28,923 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-07-14 23:40:28,989 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-07-14 23:40:29,009 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-07-14 23:40:29,014 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-07-14 23:40:29,083 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-07-14 23:40:29,083 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-07-14 23:40:29,097 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-07-14 23:49:47,478 INFO  [org.eclim.eclipse.EclimDaemon] Shutting down eclim...
+2015-07-14 23:49:47,541 INFO  [org.eclim.eclipse.EclimDaemon] Stopping plugin org.eclim.core
+2015-07-14 23:49:47,546 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.wst
+2015-07-14 23:49:47,547 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.sdt
+2015-07-14 23:49:47,547 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.jdt
+2015-07-14 23:49:47,548 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.pydev
+2015-07-14 23:49:47,548 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltkruby
+2015-07-14 23:49:47,549 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltk
+2015-07-14 23:49:47,550 INFO  [org.eclim.eclipse.EclimDaemon] Eclim stopped.
+2015-07-15 09:47:46,755 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-07-15 09:47:46,758 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-07-15 09:47:46,758 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-07-15 09:47:46,763 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-07-15 09:47:46,765 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-07-15 09:47:46,954 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-07-15 09:47:46,969 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-07-15 09:47:46,979 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-07-15 09:47:46,981 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-07-15 09:47:46,982 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-07-15 09:47:46,986 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-07-15 09:47:46,988 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-07-15 09:47:46,990 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-07-15 09:47:46,990 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-07-15 09:47:46,992 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-07-15 09:48:11,725 INFO  [org.eclim.eclipse.EclimDaemon] Shutting down eclim...
+2015-07-15 09:48:11,741 INFO  [org.eclim.eclipse.EclimDaemon] Stopping plugin org.eclim.core
+2015-07-15 09:48:11,743 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.wst
+2015-07-15 09:48:11,743 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.sdt
+2015-07-15 09:48:11,743 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.jdt
+2015-07-15 09:48:11,744 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.pydev
+2015-07-15 09:48:11,744 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltkruby
+2015-07-15 09:48:11,744 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltk
+2015-07-15 09:48:11,744 INFO  [org.eclim.eclipse.EclimDaemon] Eclim stopped.
+2015-07-19 20:16:22,769 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-07-19 20:16:22,772 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-07-19 20:16:22,772 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-07-19 20:16:22,778 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-07-19 20:16:22,781 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-07-19 20:16:22,968 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-07-19 20:16:22,974 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-07-19 20:16:23,224 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-07-19 20:16:23,229 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-07-19 20:16:23,248 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-07-19 20:16:23,250 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-07-19 20:16:23,252 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-07-19 20:16:23,255 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-07-19 20:16:23,255 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-07-19 20:16:23,257 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-07-19 20:59:07,684 INFO  [org.eclim.eclipse.EclimDaemon] Shutting down eclim...
+2015-07-19 20:59:07,694 INFO  [org.eclim.eclipse.EclimDaemon] Stopping plugin org.eclim.core
+2015-07-19 20:59:07,697 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.wst
+2015-07-19 20:59:07,698 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.sdt
+2015-07-19 20:59:07,698 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.jdt
+2015-07-19 20:59:07,698 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.pydev
+2015-07-19 20:59:07,698 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltkruby
+2015-07-19 20:59:07,699 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltk
+2015-07-19 20:59:07,699 INFO  [org.eclim.eclipse.EclimDaemon] Eclim stopped.
+2015-07-21 22:23:52,944 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-07-21 22:23:52,948 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-07-21 22:23:52,948 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-07-21 22:23:52,954 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-07-21 22:23:52,956 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-07-21 22:23:53,081 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-07-21 22:23:53,101 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-07-21 22:23:53,163 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-07-21 22:23:53,165 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-07-21 22:23:53,166 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-07-21 22:23:53,168 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-07-21 22:23:53,170 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-07-21 22:23:53,172 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-07-21 22:23:53,172 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-07-21 22:23:53,174 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-07-21 23:23:46,289 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-07-21 23:23:46,292 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-07-21 23:23:46,292 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-07-21 23:23:46,298 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-07-21 23:23:46,302 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-07-21 23:23:46,497 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-07-21 23:23:46,523 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-07-21 23:23:46,546 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-07-21 23:23:46,547 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-07-21 23:23:46,548 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-07-21 23:23:46,555 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-07-21 23:23:46,561 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-07-21 23:23:46,568 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-07-21 23:23:46,568 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-07-21 23:23:46,585 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-07-22 00:22:44,551 INFO  [org.eclim.eclipse.EclimDaemon] Shutting down eclim...
+2015-07-22 00:22:44,554 INFO  [org.eclim.eclipse.EclimDaemon] Stopping plugin org.eclim.core
+2015-07-22 00:22:44,556 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.wst
+2015-07-22 00:22:44,557 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.sdt
+2015-07-22 00:22:44,557 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.jdt
+2015-07-22 00:22:44,557 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.pydev
+2015-07-22 00:22:44,557 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltkruby
+2015-07-22 00:22:44,557 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltk
+2015-07-22 00:22:44,557 INFO  [org.eclim.eclipse.EclimDaemon] Eclim stopped.
+2015-07-24 22:24:51,798 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-07-24 22:24:51,804 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-07-24 22:24:51,804 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-07-24 22:24:51,814 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-07-24 22:24:51,823 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-07-24 22:24:52,203 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-07-24 22:24:52,210 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-07-24 22:24:52,256 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-07-24 22:24:52,259 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-07-24 22:24:52,291 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-07-24 22:24:52,297 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-07-24 22:24:52,302 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-07-24 22:24:52,306 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-07-24 22:24:52,307 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-07-24 22:24:52,322 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-07-24 22:34:05,783 INFO  [org.eclim.eclipse.EclimDaemon] Shutting down eclim...
+2015-07-24 22:34:05,792 INFO  [org.eclim.eclipse.EclimDaemon] Stopping plugin org.eclim.core
+2015-07-24 22:34:05,794 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.wst
+2015-07-24 22:34:05,794 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.sdt
+2015-07-24 22:34:05,794 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.jdt
+2015-07-24 22:34:05,795 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.pydev
+2015-07-24 22:34:05,795 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltkruby
+2015-07-24 22:34:05,795 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltk
+2015-07-24 22:34:05,795 INFO  [org.eclim.eclipse.EclimDaemon] Eclim stopped.
+2015-07-24 22:38:25,663 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-07-24 22:38:25,671 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-07-24 22:38:25,671 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-07-24 22:38:25,676 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-07-24 22:38:25,683 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-07-24 22:38:25,855 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-07-24 22:38:25,876 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-07-24 22:38:25,882 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-07-24 22:38:25,883 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-07-24 22:38:25,885 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-07-24 22:38:25,886 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-07-24 22:38:25,887 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-07-24 22:38:25,891 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-07-24 22:38:25,892 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-07-24 22:38:25,912 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-07-25 00:06:51,851 INFO  [org.eclim.eclipse.EclimDaemon] Shutting down eclim...
+2015-07-25 00:06:51,867 INFO  [org.eclim.eclipse.EclimDaemon] Stopping plugin org.eclim.core
+2015-07-25 00:06:51,868 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.wst
+2015-07-25 00:06:51,870 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.sdt
+2015-07-25 00:06:51,871 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.jdt
+2015-07-25 00:06:51,871 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.pydev
+2015-07-25 00:06:51,871 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltkruby
+2015-07-25 00:06:51,872 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltk
+2015-07-25 00:06:51,872 INFO  [org.eclim.eclipse.EclimDaemon] Eclim stopped.
+2015-07-29 22:00:28,904 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-07-29 22:00:28,907 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-07-29 22:00:28,907 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-07-29 22:00:28,914 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-07-29 22:00:28,920 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-07-29 22:00:29,151 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-07-29 22:00:29,162 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-07-29 22:00:29,174 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-07-29 22:00:29,177 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-07-29 22:00:29,177 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-07-29 22:00:29,180 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-07-29 22:00:29,182 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-07-29 22:00:29,185 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-07-29 22:00:29,185 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-07-29 22:00:29,187 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-07-29 23:33:56,110 INFO  [org.eclim.eclipse.EclimDaemon] Shutting down eclim...
+2015-07-29 23:33:56,121 INFO  [org.eclim.eclipse.EclimDaemon] Stopping plugin org.eclim.core
+2015-07-29 23:33:56,123 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.wst
+2015-07-29 23:33:56,124 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.sdt
+2015-07-29 23:33:56,124 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.jdt
+2015-07-29 23:33:56,124 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.pydev
+2015-07-29 23:33:56,124 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltkruby
+2015-07-29 23:33:56,124 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltk
+2015-07-29 23:33:56,124 INFO  [org.eclim.eclipse.EclimDaemon] Eclim stopped.
+2015-08-01 11:15:29,762 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-08-01 11:15:29,765 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-08-01 11:15:29,765 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-08-01 11:15:29,795 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-08-01 11:15:29,808 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-08-01 11:15:29,934 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-08-01 11:15:29,945 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-08-01 11:15:29,956 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-08-01 11:15:29,960 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-08-01 11:15:29,988 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-08-01 11:15:29,994 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-08-01 11:15:30,002 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-08-01 11:15:30,005 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-08-01 11:15:30,006 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-08-01 11:15:30,008 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-08-09 11:21:42,375 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-08-09 11:21:42,378 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-08-09 11:21:42,378 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-08-09 11:21:42,386 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-08-09 11:21:42,407 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-08-09 11:21:42,739 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-08-09 11:21:42,788 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-08-09 11:21:42,833 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-08-09 11:21:42,837 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-08-09 11:21:42,860 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-08-09 11:21:42,863 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-08-09 11:21:42,865 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-08-09 11:21:42,869 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-08-09 11:21:42,869 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-08-09 11:21:42,872 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-08-30 22:48:09,054 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-08-30 22:48:09,061 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-08-30 22:48:09,061 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-08-30 22:48:09,069 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-08-30 22:48:09,072 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-08-30 22:48:09,251 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-08-30 22:48:09,260 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-08-30 22:48:09,287 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-08-30 22:48:09,292 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-08-30 22:48:09,314 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-08-30 22:48:09,317 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-08-30 22:48:09,319 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-08-30 22:48:09,321 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-08-30 22:48:09,322 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-08-30 22:48:09,327 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-09-03 10:44:06,247 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-09-03 10:44:06,250 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-09-03 10:44:06,250 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-09-03 10:44:06,258 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-09-03 10:44:06,270 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-09-03 10:44:06,380 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-09-03 10:44:06,393 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-09-03 10:44:06,408 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-09-03 10:44:06,411 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-09-03 10:44:06,412 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-09-03 10:44:06,416 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-09-03 10:44:06,418 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-09-03 10:44:06,421 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-09-03 10:44:06,421 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-09-03 10:44:06,424 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-09-03 12:03:13,778 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-09-03 12:03:13,781 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-09-03 12:03:13,781 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-09-03 12:03:13,788 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-09-03 12:03:13,791 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-09-03 12:03:13,961 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-09-03 12:03:14,067 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-09-03 12:03:14,122 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-09-03 12:03:14,134 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-09-03 12:03:14,138 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-09-03 12:03:14,151 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-09-03 12:03:14,156 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-09-03 12:03:14,159 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-09-03 12:03:14,161 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-09-03 12:03:14,175 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-09-03 16:25:01,213 INFO  [org.eclim.eclipse.EclimDaemon] Shutting down eclim...
+2015-09-03 16:25:01,223 INFO  [org.eclim.eclipse.EclimDaemon] Stopping plugin org.eclim.core
+2015-09-03 16:25:01,226 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.wst
+2015-09-03 16:25:01,227 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.sdt
+2015-09-03 16:25:01,227 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.jdt
+2015-09-03 16:25:01,227 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.pydev
+2015-09-03 16:25:01,227 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltkruby
+2015-09-03 16:25:01,227 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltk
+2015-09-03 16:25:01,228 INFO  [org.eclim.eclipse.EclimDaemon] Eclim stopped.
+2015-10-12 00:57:10,448 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /mnt/hgfs/yy/programme/eclipse_workspase
+2015-10-12 00:57:10,451 INFO  [org.eclim.eclipse.EclimDaemon] Home: /home/yy/Downloads/eclipse/plugins/org.eclim_2.4.1/
+2015-10-12 00:57:10,451 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2015-10-12 00:57:10,472 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2015-10-12 00:57:10,475 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2015-10-12 00:57:10,615 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2015-10-12 00:57:10,622 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.wst
+2015-10-12 00:57:10,636 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.sdt
+2015-10-12 00:57:10,639 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2015-10-12 00:57:10,659 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.pydev
+2015-10-12 00:57:10,662 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltkruby
+2015-10-12 00:57:10,663 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.dltk
+2015-10-12 00:57:10,667 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2015-10-12 00:57:10,667 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2015-10-12 00:57:10,669 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2015-10-12 02:24:52,938 INFO  [org.eclim.eclipse.EclimDaemon] Shutting down eclim...
+2015-10-12 02:24:52,948 INFO  [org.eclim.eclipse.EclimDaemon] Stopping plugin org.eclim.core
+2015-10-12 02:24:52,955 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.wst
+2015-10-12 02:24:52,955 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.sdt
+2015-10-12 02:24:52,955 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.jdt
+2015-10-12 02:24:52,955 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.pydev
+2015-10-12 02:24:52,956 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltkruby
+2015-10-12 02:24:52,956 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.dltk
+2015-10-12 02:24:52,956 INFO  [org.eclim.eclipse.EclimDaemon] Eclim stopped.
